@@ -1,6 +1,6 @@
 # Card
-一切皆卡片
 
+Everything is Cards
 ***
 参考
 
